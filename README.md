@@ -8,7 +8,7 @@
 
 #### O valor do frete é cobrado pelo peso da encomenda, o valor para cada KG é R$1,00
 
-# 💻 Technologies:
+# 💻 Tecnologias:
 
 #### Java 11
 
@@ -22,10 +22,10 @@
 
 #### Maven
 
-## Possible EndPoints:
+## EndPoint:
 
 ![EndPoints](https://github.com/brunogabriel99/calcular-frete-api/blob/main/rota.jpg)
 
-## Response example:
+## Exemplo de Retorno:
 
 ![Json](https://github.com/brunogabriel99/calcular-frete-api/blob/main/Response.jpg)
