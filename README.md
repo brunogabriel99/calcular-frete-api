@@ -24,7 +24,7 @@
 
 ## Possible EndPoints:
 
-![EndPoints](https://github.com/brunogabriel99/calcular-frete-api/blob/main/Response.jpg)
+![EndPoints](https://github.com/brunogabriel99/calcular-frete-api/blob/main/rota.jpg)
 
 ## Response example:
 
