@@ -22,8 +22,6 @@
 
 #### Maven
 
-## Basic EndPoint: https://accenturebankapi.herokuapp.com/swagger-ui.html#/
-
 ## Possible EndPoints:
 
 ![EndPoints](https://github.com/brunogabriel99/calcular-frete-api/blob/main/Response.jpg)
