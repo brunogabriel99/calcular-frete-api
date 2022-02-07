@@ -1,14 +1,14 @@
 ## API PARA CALCULAR FRETE E ENTREGAR DATA PREVISTA DE ENTREGA
 
-## CEPs com DDDs iguais tem 50% de desconto no valor do frete e entrega prevista de 1 dia
+#### CEPs com DDDs iguais tem 50% de desconto no valor do frete e entrega prevista de 1 dia
 
-## CEPs de estados iguais tem 75% de desconto no valor do frete e entrega prevista de 3 dias
+#### CEPs de estados iguais tem 75% de desconto no valor do frete e entrega prevista de 3 dias
 
-## CEPs de estados diferentes não deve ser aplicado o desconto no valor do frete e entrega prevista de 10 dias
+#### CEPs de estados diferentes não deve ser aplicado o desconto no valor do frete e entrega prevista de 10 dias
 
-## O valor do frete é cobrado pelo peso da encomenda, o valor para cada KG é R$1,00
+#### O valor do frete é cobrado pelo peso da encomenda, o valor para cada KG é R$1,00
 
-# 💻 Technologies:
+# 💻 Tecnologias:
 
 #### Java 11
 
@@ -22,10 +22,10 @@
 
 #### Maven
 
-## Possible EndPoints:
+## EndPoint:
 
 ![EndPoints](https://github.com/brunogabriel99/calcular-frete-api/blob/main/rota.jpg)
 
-## Response example:
+## Exemplo de Retorno:
 
 ![Json](https://github.com/brunogabriel99/calcular-frete-api/blob/main/Response.jpg)
