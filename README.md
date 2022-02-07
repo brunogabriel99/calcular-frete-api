@@ -16,7 +16,7 @@
 
 #### JPA / Hibernate
 
-#### MySQL / H2 DATABASE
+#### H2 DATABASE
 
 #### Swagger
 
